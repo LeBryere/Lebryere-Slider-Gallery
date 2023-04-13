@@ -21,7 +21,7 @@
 	<link rel="stylesheet" href="assets/css/style.min_gall.css">
 	<link rel="stylesheet" href="assets/css/style-gall.css">
 	<link rel="stylesheet" href="assets/css/lightgallery.css">
-	<link rel="stylesheet" href="assets/css/custom-style.css">
+	<link rel="stylesheet" href="assets/css/custom.css">
 </head>
 
 <body>
@@ -34,10 +34,6 @@
 </div>
 
 <section>
-<h2 class="gallery-head-text">
-	Responsive gallery displays all images in the library.<br>
-	The images are randomly ordered.
-</h2>
 	<div class="row gallery-single" data-thumb="true">
 		<div class="container-fluid clearfix">
 			<?php			
