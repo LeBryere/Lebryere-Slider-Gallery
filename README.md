@@ -18,6 +18,8 @@
 
 ## Usage
 
+cvRG517?st57gDRFb!gg
+
 ### Basic Usage
 
 The above code is a detailed representation of a website containing a gallery written in PHP and JavaScript languages. The code includes all the images, which are randomly displayed on the gallery page.
@@ -36,7 +38,6 @@ Overall, the above code provides a detailed and efficient solution for implement
   --body_color: hsl(246,4%, 14%);
   --main_color: hsl(35deg 40% 65%);
   --main_color_hover: hsl(35deg 20% 55%);
-  --gallery_dorp_shadow: drop-shadow(20px 100px 30px hsla(0, 0%, 0%, 0.7));
   --max-height: 40vh;
 }
 
