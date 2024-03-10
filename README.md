@@ -18,7 +18,6 @@
 
 ## Usage
 
-cvRG517?st57gDRFb!gg
 
 ### Basic Usage
 
