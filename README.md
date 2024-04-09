@@ -1,4 +1,4 @@
-# [LeBryere - Lebryere Slider Gallery](https://lebryere.github.io/Lebryere-Slider-Gallery/)
+# [LeBryere - Slider Gallery](https://lebryere.github.io/Lebryere-Slider-Gallery/)
 
 ## Browser Support
 
