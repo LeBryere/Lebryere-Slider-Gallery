@@ -1,4 +1,4 @@
-# [LeBryere - Slider Gallery]
+# LeBryere - Slider Gallery
 
 ## Browser Support
 
