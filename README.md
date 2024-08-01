@@ -11,7 +11,7 @@
 
 ## Status
 
-![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://github.com/LeBryere/Lebryere-Slider-Gallery/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://github.com/LeBryere/Lebryere-Slider-Gallery/blob/master/LICENSE)
 
 ## Usage
 
