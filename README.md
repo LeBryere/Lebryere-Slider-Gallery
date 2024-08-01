@@ -1,4 +1,4 @@
-# [LeBryere - Slider Gallery](https://lebryere.github.io/Lebryere-Slider-Gallery/)
+# [LeBryere - Slider Gallery]
 
 ## Browser Support
 
@@ -8,9 +8,7 @@
 
 ## Preview
 
-[![Resume Preview](https://github.com/LeBryere/Lebryere-Slider-Gallery/blob/master/preview.png)](https://lebryere.github.io/Lebryere-Slider-Gallery/)
-
-**[View Live Preview](https://lebryere.github.io/Lebryere-Slider-Gallery/)**
+[![Resume Preview](https://github.com/LeBryere/Lebryere-Slider-Gallery/blob/master/preview.png)]
 
 ## Status
 
