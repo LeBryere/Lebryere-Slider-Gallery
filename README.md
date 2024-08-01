@@ -29,7 +29,7 @@ The code also includes mouse interactions that pause the animation when the mous
 Overall, the above code provides a detailed and efficient solution for implementing a beautiful and entertaining gallery on a website.
 
 ### Variables
-```
+```css
 :root {
   --body_color: hsl(246,4%, 14%);
   --main_color: hsl(35deg 40% 65%);
@@ -41,7 +41,7 @@ Overall, the above code provides a detailed and efficient solution for implement
 ### Open Graph
 
 Add basic metadata to your head of web page and fill it out accordingly:
-```
+```html
  <meta charset="UTF-8">
    <title>Lebryere Slider Gallery</title>
    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes" />
