@@ -6,7 +6,6 @@
 --- | --- | --- | --- | --- | --- |
 92+ ✔ | 90+ ✔ | 91+ ✔ | 74+ ✔ | 85+ ✔ | 65+ ✔ |
 
-## Preview
 
 [![Resume Preview](https://github.com/LeBryere/Lebryere-Slider-Gallery/blob/master/preview.png)]
 
