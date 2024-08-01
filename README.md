@@ -7,11 +7,11 @@
 92+ ✔ | 90+ ✔ | 91+ ✔ | 74+ ✔ | 85+ ✔ | 65+ ✔ |
 
 
-[![Resume Preview](https://github.com/LeBryere/Lebryere-Slider-Gallery/blob/master/preview.png)]
+![Resume Preview](https://github.com/LeBryere/Lebryere-Slider-Gallery/blob/master/preview.png)]
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://github.com/LeBryere/Lebryere-Slider-Gallery/blob/master/LICENSE)
+![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://github.com/LeBryere/Lebryere-Slider-Gallery/blob/master/LICENSE)
 
 ## Usage
 
